@@ -7,3 +7,5 @@ Creating a new branch is quick AND simple.
 Switched to a new branch 'dev'
 Fast forward
 --no-ff
+dev not finish yet!!
+dev finished!!
